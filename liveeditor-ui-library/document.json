@@ -1,0 +1,42 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "0f0e6080-48e2-11e9-9b1d-f74c155c4e4d",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "53.2",
+    "build": 72643,
+    "version": 116
+  },
+  "pages": [
+    "Live Editor System - Artboards and Grid"
+  ]
+}

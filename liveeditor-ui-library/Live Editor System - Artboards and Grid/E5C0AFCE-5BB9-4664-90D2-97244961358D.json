@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0213D2D7-8694-4B30-9E7A-57E0A407BE51",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5C0AFCE-5BB9-4664-90D2-97244961358D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A47B420-E5B6-40F5-A3FB-EDF73614F15D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C145126-EAFF-4F0B-97C9-B31F8A6E23DE",
+    "height": 768,
+    "width": 1024,
+    "x": 1767,
+    "y": -265
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "0A095456-AD29-4AE2-8128-C5EEDC449C48",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DDCB6F5E-C987-4FD5-8D22-60265A0A5E12"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BEEF7E02-BF38-4B74-B719-C0656D975707",
+    "guides": [
+      48,
+      512,
+      496,
+      528,
+      976,
+      128,
+      896
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 960
+  },
+  "name": "Live Editor - Artboard - Tablet - Landscape - 1024px",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF9E8294-360C-4A89-A783-987E7A09DBB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7638CD11-F4BA-49A6-BD66-6A17A5D4356F",
+    "guides": [
+    ]
+  }
+}
