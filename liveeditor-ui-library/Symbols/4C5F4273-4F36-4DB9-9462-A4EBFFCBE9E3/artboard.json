@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "191D018A-26D7-4488-ACD3-70A996331458",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C5F4273-4F36-4DB9-9462-A4EBFFCBE9E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F92E24DF-E4C9-4600-920E-1660569CBD4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B248CA54-FC5C-46F8-93C2-689822F0A165",
+    "height": 1356,
+    "width": 1920,
+    "x": -357,
+    "y": -352
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "28057522-39D4-47EE-A5F7-EE765113EFC0",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BADDCB09-11BC-4E54-9271-81E2FCFBE95F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9FD9C7F6-AB0F-41F5-BF73-4AA0CF8DACEF",
+    "guides": [
+      256,
+      960,
+      944,
+      976,
+      1664,
+      376,
+      1544
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B737A83-DF8E-4D70-A312-90CFD2BFE83F"
+    },
+    {
+      "class": "group",
+      "id": "52C73C38-579F-4950-8DB7-FE2F01A73AFF"
+    },
+    {
+      "class": "group",
+      "id": "BB1D2F94-FFB1-4CA5-8B92-342904D40620"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88,
+    "do_objectID": "D1660A5F-CEE8-4473-9592-4291C140BAB4",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1440
+  },
+  "name": "Live Editor - Brand, color, and shared styles",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDE5923A-429B-4DFB-981D-94445DE12349",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E7B33B9-8A69-4F00-AB95-3E2BCAD8F31A",
+    "guides": [
+    ]
+  }
+}
