@@ -11,7 +11,9 @@
           "blue": 0.2980392156862745,
           "green": 0.7411764705882353,
           "red": 0.6705882352941176
-        }
+        },
+        "do_objectID": "81977AB7-E119-44B4-B06C-5065A05E2423",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -21,7 +23,9 @@
           "blue": 0.06666666666666667,
           "green": 0.06666666666666667,
           "red": 0.06666666666666667
-        }
+        },
+        "do_objectID": "7504254A-F032-4B0E-8306-C8ABDDD591DF",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -31,7 +35,9 @@
           "blue": 0.2509803921568627,
           "green": 0.2823529411764706,
           "red": 0.2235294117647059
-        }
+        },
+        "do_objectID": "9D3399A9-6049-4F6E-BAD7-09BC365C2733",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -41,7 +47,9 @@
           "blue": 0.9607843137254902,
           "green": 0.9607843137254902,
           "red": 0.9607843137254902
-        }
+        },
+        "do_objectID": "7FE0AFD5-C317-4C80-905F-4E8026B1AAC8",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -51,7 +59,9 @@
           "blue": 1,
           "green": 1,
           "red": 1
-        }
+        },
+        "do_objectID": "A5F92808-E8E1-41AE-8DF2-241A866D79DF",
+        "name": ""
       }
     ],
     "colors": [
@@ -91,6 +101,9 @@
         "red": 1
       }
     ],
+    "do_objectID": "AD5A044C-7FF3-49D1-BC6E-220FFC7B1600",
+    "exportPresets": [
+    ],
     "gradientAssets": [
     ],
     "gradients": [
@@ -105,6 +118,8 @@
   },
   "colorSpace": 0,
   "do_objectID": "0f0e6080-48e2-11e9-9b1d-f74c155c4e4d",
+  "fontReferences": [
+  ],
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -117,9 +132,9 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "65.1",
+    "build": 95501,
+    "version": 127
   },
   "pages": [
     "Symbols",
