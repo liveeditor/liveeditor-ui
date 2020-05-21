@@ -25,7 +25,7 @@
     "height": 1356,
     "width": 1920,
     "x": 7143,
-    "y": -352
+    "y": -351.9999999999999
   },
   "grid": {
     "_class": "simpleGrid",
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
