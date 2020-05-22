@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "6026A4A2-BE78-4567-91B1-81C8805B2EE4",
-  "name": "dt/h/h4/Black/Left",
+  "do_objectID": "28CCC4F0-0BF3-4974-9757-F807CD469649",
+  "name": "iOS/largeTitle/White/Right",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D1E64402-8653-45F9-8290-D8297CE157E9",
+    "do_objectID": "D52204BD-EF1F-4498-AB26-680F870C9A92",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -52,23 +52,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 16
+            "size": 34
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "alignment": 1,
+          "maximumLineHeight": 41,
+          "minimumLineHeight": 41
         },
         "textStyleVerticalAlignmentKey": 0
       },

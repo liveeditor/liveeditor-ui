@@ -17,28 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HelveticaNeue-Bold",
-              "size": 20
+              "size": 34
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 25,
-            "minimumLineHeight": 25
+            "alignment": 2,
+            "maximumLineHeight": 41,
+            "minimumLineHeight": 41
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "title3 R"
+    "string": "large title C"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "248F02CC-5065-47B1-A09D-456CC47AD820",
+  "do_objectID": "CA135C22-B305-45AB-B8E5-A01B54482765",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
+    "height": 41,
     "width": 208,
-    "x": 480,
-    "y": 158
+    "x": 240,
+    "y": 0
   },
-  "glyphBounds": "{{141, 6}, {67, 16}}",
+  "glyphBounds": "{{12, 9}, {185, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "title3 R",
+  "name": "large title C",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "540DD85B-DFAC-4D6D-BB62-BF078EDA4D65",
+  "sharedStyleID": "77161107-1ACD-408C-A072-A9235CD8D64B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "49FC451E-5797-4222-8DFC-C1C16FC637E3",
+    "do_objectID": "3C40F712-03FA-4857-AF0B-FC0BDB6BA0F2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,15 +131,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 20
+            "size": 34
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 25,
-          "minimumLineHeight": 25
+          "alignment": 2,
+          "maximumLineHeight": 41,
+          "minimumLineHeight": 41
         },
         "textStyleVerticalAlignmentKey": 0
       },

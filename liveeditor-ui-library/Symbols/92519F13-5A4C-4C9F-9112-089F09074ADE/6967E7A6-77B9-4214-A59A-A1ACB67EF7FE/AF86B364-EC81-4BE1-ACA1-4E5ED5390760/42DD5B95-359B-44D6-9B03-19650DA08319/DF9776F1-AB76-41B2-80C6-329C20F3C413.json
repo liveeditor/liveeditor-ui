@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HelveticaNeue-Bold",
-              "size": 20
+              "size": 34
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 25,
-            "minimumLineHeight": 25
+            "alignment": 0,
+            "maximumLineHeight": 41,
+            "minimumLineHeight": 41
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "title3 R"
+    "string": "large title L"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "248F02CC-5065-47B1-A09D-456CC47AD820",
+  "do_objectID": "DF9776F1-AB76-41B2-80C6-329C20F3C413",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 208,
-    "x": 480,
-    "y": 158
+    "height": 41,
+    "width": 208.3023255813953,
+    "x": 9.094947017729282e-13,
+    "y": 0
   },
-  "glyphBounds": "{{141, 6}, {67, 16}}",
+  "glyphBounds": "{{1, 9}, {181, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "title3 R",
+  "name": "large title L",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "540DD85B-DFAC-4D6D-BB62-BF078EDA4D65",
+  "sharedStyleID": "B7FC5A64-67FC-4D60-9A6C-19C3CB5F7E9A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "49FC451E-5797-4222-8DFC-C1C16FC637E3",
+    "do_objectID": "9F80B7EB-C278-4C47-955E-870A2C8BB6BE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,23 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 20
+            "size": 34
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 25,
-          "minimumLineHeight": 25
+          "alignment": 0,
+          "maximumLineHeight": 41,
+          "minimumLineHeight": 41
         },
         "textStyleVerticalAlignmentKey": 0
       },

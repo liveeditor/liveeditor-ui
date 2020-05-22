@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "994EDAD6-8929-499F-BC16-9BF48E4C00BA",
+    "do_objectID": "6B62B38C-3C20-4B7A-89A5-9E95771A1C47",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -60,15 +60,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 24
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },
